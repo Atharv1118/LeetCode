@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Atharv1118/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Atharv1118/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Stack
 |  |
 | ------- |
