@@ -47,6 +47,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Atharv1118/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atharv1118/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Atharv1118/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atharv1118/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -63,4 +64,8 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atharv1118/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Atharv1118/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atharv1118/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Atharv1118/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
