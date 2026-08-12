@@ -1,22 +1,39 @@
 class Solution {
     public String reverseWords(String s) {
         StringBuilder ans = new StringBuilder();
-        StringBuilder rev = new StringBuilder(s);
-        rev.reverse();
-        for(int i=0; i<rev.length(); i++){
-            StringBuilder word = new StringBuilder();
-            while(i<rev.length() && rev.charAt(i) != ' '){
-                word.append(rev.charAt(i));
-                i++;
+
+        int right = s.length() - 1;
+
+        while (right >= 0) {
+
+            // Skip spaces
+            while (right >= 0 && s.charAt(right) == ' ') {
+                right--;
             }
-            if(word.length() > 0){
-               word.reverse();
-               if(ans.length() > 0){
+
+            if (right < 0) {
+                break;
+            }
+
+            // Find the starting position of the word
+            int left = right;
+
+            while (left >= 0 && s.charAt(left) != ' ') {
+                left--;
+            }
+
+            // Add space between words
+            if (ans.length() > 0) {
                 ans.append(" ");
-               }
-               ans.append(word);
             }
+
+            // Add current word
+            ans.append(s.substring(left + 1, right + 1));
+
+            // Move to previous word
+            right = left - 1;
         }
+
         return ans.toString();
     }
 }
