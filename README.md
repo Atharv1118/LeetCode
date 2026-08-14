@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Atharv1118/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Atharv1118/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Atharv1118/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Atharv1118/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/Atharv1118/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -48,6 +49,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Atharv1118/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Atharv1118/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atharv1118/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Atharv1118/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Atharv1118/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Atharv1118/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
