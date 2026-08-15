@@ -51,6 +51,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Atharv1118/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Atharv1118/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Atharv1118/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atharv1118/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Atharv1118/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Atharv1118/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -80,4 +81,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Atharv1118/LeetCode/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/Atharv1118/LeetCode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
