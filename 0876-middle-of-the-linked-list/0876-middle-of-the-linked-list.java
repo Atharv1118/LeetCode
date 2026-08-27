@@ -11,27 +11,17 @@
 class Solution {
     public ListNode middleNode(ListNode head) {
 
-      ListNode curr = head;
-      int size = 0;
+     ListNode slow = head;
+     ListNode fast = head;
 
-    // calculate the size
-      while(curr != null){
+    if(slow == null && fast == null) return null;
 
-        size++;
-        curr = curr.next;
-      }  
+    while(fast != null && fast.next != null){
 
-    int mid = size / 2;
+        slow = slow.next;
+        fast = fast.next.next;
 
-    //reset curr to the head 
-    curr = head;
-    int i = 1;
-      while(i <= mid){
-
-        curr = curr.next;;
-        i++;
-      }
-
-      return curr;
+    }
+    return slow;
     }
 }
