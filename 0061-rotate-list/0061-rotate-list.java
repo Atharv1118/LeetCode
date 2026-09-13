@@ -6,12 +6,12 @@ class Solution {
         }
 
         // Find length
-        int len = 0;
-        ListNode temp = head;
+        int len = 1;
+        ListNode tail = head;
 
-        while (temp != null) {
+        while (tail.next != null) {
             len++;
-            temp = temp.next;
+            tail = tail.next;
         }
 
         // Avoid unnecessary rotations
@@ -19,52 +19,19 @@ class Solution {
 
         if (k == 0) return head;
 
-        // 1. Reverse entire list
-        ListNode reversal = reverse(head);
+        int cnt = 0;
 
-        // 2. Reverse first k elements
-        ListNode first = reversal;
-        ListNode curr = reversal;
+        tail.next = head;
 
-        for (int i = 1; i < k; i++) {
-            curr = curr.next;
+        ListNode temp = head;
+
+        while(cnt <len - k - 1){
+            cnt++;
+            temp = temp.next;
         }
+         head = temp.next;
+         temp.next = null;
 
-        // Separate first k nodes
-        ListNode remaining = curr.next;
-        curr.next = null;
-
-        // Reverse first k
-        first = reverse(first);
-
-        // 3. Reverse remaining elements
-        remaining = reverse(remaining);
-
-        // Connect both parts
-        ListNode tail = first;
-
-        while (tail.next != null) {
-            tail = tail.next;
-        }
-
-        tail.next = remaining;
-
-        return first;
-    }
-
-    public ListNode reverse(ListNode head) {
-
-        ListNode curr = head;
-        ListNode prev = null;
-
-        while (curr != null) {
-
-            ListNode next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
-        }
-
-        return prev;
+    return head;
     }
 }
