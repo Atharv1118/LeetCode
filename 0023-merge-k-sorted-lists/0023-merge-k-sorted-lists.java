@@ -10,30 +10,38 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        
-        if(lists.length == 0) return null;
-        
-        ArrayList <Integer> arr = new ArrayList<>();
 
-        for(int i = 0; i<lists.length ; i++){
+        // Min Heap:
+        // It always gives us the node having the smallest value.
+        PriorityQueue<ListNode> pq = new PriorityQueue<>(
+            (a, b) -> a.val - b.val
+        );
 
-            ListNode temp = lists[i];
-
-            while(temp != null){
-                arr.add(temp.val);
-                temp = temp.next;
+        // Put the head of every non-empty linked list into the heap
+        for (int i = 0; i < lists.length; i++) {
+            if (lists[i] != null) {
+                pq.add(lists[i]);
             }
         }
 
-        Collections.sort(arr);
-
+        // Dummy node helps us easily build the answer list
         ListNode dummy = new ListNode(0);
-        ListNode head = dummy;
+        ListNode curr = dummy;
 
-        for(int i =0; i < arr.size() ; i++){
+        // Keep taking the smallest current node
+        while (!pq.isEmpty()) {
 
-            head.next = new ListNode(arr.get(i));
-            head = head.next;
+            // Get and remove the smallest node
+            ListNode minNode = pq.poll();
+
+            // Add that node to our answer list
+            curr.next = minNode;
+            curr = curr.next;
+
+            // The selected node's next node is now a new candidate
+            if (minNode.next != null) {
+                pq.add(minNode.next);
+            }
         }
 
         return dummy.next;
