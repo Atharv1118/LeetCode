@@ -1,18 +1,15 @@
 class Solution {
     public int kthSmallest(int[][] matrix, int k) {
         
-        PriorityQueue<Integer> pq = new PriorityQueue<>();
+       ArrayList<Integer> list = new  ArrayList<>();
 
-        int cnt = 0;
+      
         for(int[] row : matrix){
             for(int col : row){
-            pq.add(col);
+            list.add(col);
             }
         }
-        int ans = 0;
-        for(int i = 0; i<k ; i++){
-             ans = pq.poll();
-        }
-        return ans;
+        Collections.sort(list);
+        return list.get(k-1);
     }
 }
