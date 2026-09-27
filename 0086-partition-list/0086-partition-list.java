@@ -12,7 +12,7 @@ class Solution {
     public ListNode partition(ListNode head, int x) {
         
         if(head == null || head.next == null) return head;
-        
+
         ListNode lesserDummy = new ListNode(0);
         ListNode greaterDummy = new ListNode(0);
         ListNode lesserNode = lesserDummy;
@@ -31,11 +31,12 @@ class Solution {
             }
             temp = temp.next;
         }
-
+        //make the last nodes next null
         greaterNode.next = null;
 
+        //connected both halves 
         lesserNode.next = greaterDummy.next;
-
+        
         return lesserDummy.next;
     }
 }
