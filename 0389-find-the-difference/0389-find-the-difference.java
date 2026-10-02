@@ -1,14 +1,19 @@
 class Solution {
     public char findTheDifference(String s, String t) {
         
-        int ans = 0;
-
-        for(int i=0 ; i<s.length(); i++){
-            ans = s.charAt(i) ^ ans;
+        int[] ans = new int[26];
+        
+        for(char c : t.toCharArray()){
+            ans[c - 'a']++;
         }
-         for(int i=0 ; i<t.length(); i++){
-            ans = t.charAt(i) ^ ans;
+         for(char c : s.toCharArray()){
+            ans[c - 'a']--;
         }
-        return (char) ans;
+        for(char c : t.toCharArray()){
+            if(ans[c - 'a'] > 0){
+              return c;
+            }
+        }
+      return ' ';
     }
 }
