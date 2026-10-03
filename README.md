@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/Atharv1118/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Atharv1118/LeetCode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Atharv1118/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/Atharv1118/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Atharv1118/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Atharv1118/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Atharv1118/LeetCode/tree/master/0268-missing-number) |
@@ -51,6 +52,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Atharv1118/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Atharv1118/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Divide and Conquer
 |  |
