@@ -13,6 +13,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Atharv1118/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Atharv1118/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Atharv1118/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Atharv1118/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Atharv1118/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Atharv1118/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Atharv1118/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -32,6 +33,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Atharv1118/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Atharv1118/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Atharv1118/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Atharv1118/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Atharv1118/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Atharv1118/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/Atharv1118/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -124,6 +126,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Atharv1118/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Atharv1118/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Atharv1118/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Atharv1118/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Atharv1118/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Atharv1118/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -248,6 +251,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Atharv1118/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Atharv1118/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Atharv1118/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -296,9 +300,14 @@
 | ------- |
 | [0260-single-number-iii](https://github.com/Atharv1118/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Atharv1118/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Atharv1118/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Atharv1118/LeetCode/tree/master/0389-find-the-difference) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Atharv1118/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Atharv1118/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
