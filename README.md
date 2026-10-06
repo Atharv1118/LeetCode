@@ -21,6 +21,7 @@
 | [0692-top-k-frequent-words](https://github.com/Atharv1118/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Atharv1118/LeetCode/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Atharv1118/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/Atharv1118/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/Atharv1118/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Atharv1118/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Atharv1118/LeetCode/tree/master/1046-last-stone-weight) |
@@ -51,6 +52,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Atharv1118/LeetCode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Atharv1118/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0881-boats-to-save-people](https://github.com/Atharv1118/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atharv1118/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/Atharv1118/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
@@ -129,6 +131,7 @@
 | [0234-palindrome-linked-list](https://github.com/Atharv1118/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Atharv1118/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Atharv1118/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/Atharv1118/LeetCode/tree/master/0881-boats-to-save-people) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Atharv1118/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
@@ -181,6 +184,7 @@
 | [0389-find-the-difference](https://github.com/Atharv1118/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Atharv1118/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Atharv1118/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0881-boats-to-save-people](https://github.com/Atharv1118/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/Atharv1118/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -314,4 +318,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Atharv1118/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Atharv1118/LeetCode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
