@@ -36,6 +36,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Atharv1118/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Atharv1118/LeetCode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Atharv1118/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Atharv1118/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1901-find-a-peak-element-ii](https://github.com/Atharv1118/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
@@ -158,6 +159,7 @@
 | [0948-bag-of-tokens](https://github.com/Atharv1118/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Atharv1118/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Atharv1118/LeetCode/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Atharv1118/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Atharv1118/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
@@ -194,6 +196,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Atharv1118/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Atharv1118/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Atharv1118/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Atharv1118/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String Matching
 |  |
 | ------- |
@@ -219,6 +222,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Atharv1118/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Atharv1118/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Atharv1118/LeetCode/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Atharv1118/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
