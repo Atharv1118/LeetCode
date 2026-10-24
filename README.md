@@ -38,6 +38,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Atharv1118/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Atharv1118/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1901-find-a-peak-element-ii](https://github.com/Atharv1118/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2974-minimum-number-game](https://github.com/Atharv1118/LeetCode/tree/master/2974-minimum-number-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -223,6 +224,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Atharv1118/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Atharv1118/LeetCode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Atharv1118/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2974-minimum-number-game](https://github.com/Atharv1118/LeetCode/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -235,6 +237,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/Atharv1118/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Atharv1118/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Atharv1118/LeetCode/tree/master/1046-last-stone-weight) |
+| [2974-minimum-number-game](https://github.com/Atharv1118/LeetCode/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -363,4 +366,8 @@
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Atharv1118/LeetCode/tree/master/0845-longest-mountain-in-array) |
+## Simulation
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/Atharv1118/LeetCode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
