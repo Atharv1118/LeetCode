@@ -29,6 +29,7 @@
 | [0875-koko-eating-bananas](https://github.com/Atharv1118/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Atharv1118/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Atharv1118/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Atharv1118/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/Atharv1118/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/Atharv1118/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Atharv1118/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -159,6 +160,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Atharv1118/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Atharv1118/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Atharv1118/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Atharv1118/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/Atharv1118/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Atharv1118/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Atharv1118/LeetCode/tree/master/1471-the-k-strongest-values-in-an-array) |
@@ -222,6 +224,7 @@
 | [0692-top-k-frequent-words](https://github.com/Atharv1118/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/Atharv1118/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Atharv1118/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Atharv1118/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/Atharv1118/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/Atharv1118/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Atharv1118/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
