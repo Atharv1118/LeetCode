@@ -35,6 +35,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Atharv1118/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Atharv1118/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Atharv1118/LeetCode/tree/master/1046-last-stone-weight) |
+| [1089-duplicate-zeros](https://github.com/Atharv1118/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Atharv1118/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Atharv1118/LeetCode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Atharv1118/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -163,6 +164,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Atharv1118/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/Atharv1118/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Atharv1118/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Atharv1118/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Atharv1118/LeetCode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Atharv1118/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Atharv1118/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
