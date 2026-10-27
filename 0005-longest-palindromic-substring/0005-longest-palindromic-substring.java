@@ -1,34 +1,34 @@
 class Solution {
-    public Boolean checkPalindrome(String s, int i , int j){
 
-        while(i < j){
+    public int expand(String s, int left, int right) {
 
-            if(s.charAt(i) != s.charAt(j)){
-                return false;
-            }
-            else{
-                i++;
-                j--;
-            }
+        while (left >= 0 && right < s.length()
+                && s.charAt(left) == s.charAt(right)) {
+            left--;
+            right++;
         }
-        return true;
+
+        return right - left - 1;
     }
+
     public String longestPalindrome(String s) {
-        String ans = "";
-        for(int i=0; i<s.length(); i++){
-            
-            for(int j=i; j<s.length(); j++){
 
-                if(checkPalindrome( s,  i ,  j)){
+        int start = 0;
+        int end = 0;
 
-                    if(j +1 - i > ans.length()){
-                        
-                    ans = s.substring(i , j+1);
-                    }
-                }
+        for (int i = 0; i < s.length(); i++) {
+
+            int len1 = expand(s, i, i);       // Odd length
+            int len2 = expand(s, i, i + 1);   // Even length
+
+            int len = Math.max(len1, len2);
+
+            if (len > end - start + 1) {
+                start = i - (len - 1) / 2;
+                end = i + len / 2;
             }
-
         }
-        return ans;
+
+        return s.substring(start, end + 1);
     }
 }
