@@ -43,6 +43,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/Atharv1118/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1901-find-a-peak-element-ii](https://github.com/Atharv1118/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2974-minimum-number-game](https://github.com/Atharv1118/LeetCode/tree/master/2974-minimum-number-game) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Atharv1118/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -188,6 +189,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Atharv1118/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/Atharv1118/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1903-largest-odd-number-in-string](https://github.com/Atharv1118/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Atharv1118/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Trie
 |  |
 | ------- |
