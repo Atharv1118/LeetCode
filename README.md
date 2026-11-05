@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Atharv1118/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Atharv1118/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Atharv1118/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Atharv1118/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Atharv1118/LeetCode/tree/master/0268-missing-number) |
@@ -184,6 +185,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Atharv1118/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Atharv1118/LeetCode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Atharv1118/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Atharv1118/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Atharv1118/LeetCode/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Atharv1118/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -392,4 +394,8 @@
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/Atharv1118/LeetCode/tree/master/2974-minimum-number-game) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Atharv1118/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
