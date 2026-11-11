@@ -26,6 +26,7 @@
 | [0611-valid-triangle-number](https://github.com/Atharv1118/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/Atharv1118/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Atharv1118/LeetCode/tree/master/0724-find-pivot-index) |
+| [0832-flipping-an-image](https://github.com/Atharv1118/LeetCode/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/Atharv1118/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/Atharv1118/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Atharv1118/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -101,6 +102,7 @@
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Atharv1118/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Atharv1118/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0832-flipping-an-image](https://github.com/Atharv1118/LeetCode/tree/master/0832-flipping-an-image) |
 | [1901-find-a-peak-element-ii](https://github.com/Atharv1118/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## String
 |  |
@@ -169,6 +171,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Atharv1118/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/Atharv1118/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Atharv1118/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0832-flipping-an-image](https://github.com/Atharv1118/LeetCode/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/Atharv1118/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Atharv1118/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Atharv1118/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -374,6 +377,7 @@
 | [0268-missing-number](https://github.com/Atharv1118/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Atharv1118/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Atharv1118/LeetCode/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/Atharv1118/LeetCode/tree/master/0832-flipping-an-image) |
 ## Queue
 |  |
 | ------- |
@@ -393,6 +397,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Atharv1118/LeetCode/tree/master/0832-flipping-an-image) |
 | [2974-minimum-number-game](https://github.com/Atharv1118/LeetCode/tree/master/2974-minimum-number-game) |
 ## Newton's Method
 |  |
