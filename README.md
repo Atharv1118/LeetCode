@@ -44,6 +44,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/Atharv1118/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1901-find-a-peak-element-ii](https://github.com/Atharv1118/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2974-minimum-number-game](https://github.com/Atharv1118/LeetCode/tree/master/2974-minimum-number-game) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Atharv1118/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Atharv1118/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
